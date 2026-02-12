@@ -23,8 +23,9 @@ With years of experience across mobile, gaming, and embedded systems, I speciali
 | Project | Description | Status | Link |
 |---------|-------------|--------|------|
 | **NailGuardCounter (Nail Timer)** | A watchOS + iOS app that counts your urge to bite nails | TestFlight ready | [View Repo](https://github.com/icywind/NailGuardCounter) |
-| **填海 (TianHai)** | A turn-based Chinese word game. Originally tech stack: Objective-C/Java frontend, LAMP stack backend. Modernization efforts: React/Vite (web), FastAPI backend. Consideration: Unity/Flutter frontend for mobile | On-going | Private repo |
+| **[填海](https://apptopia.com/ios/app/1452462600/about) (TianHai)** | A turn-based Chinese word game. Originally tech stack: Objective-C/Java frontend, LAMP stack backend. Modernization efforts: React/Vite (web), FastAPI backend. Consideration: Unity/Flutter frontend for mobile | On-going | Private repo |
 | **iOS Song Scramble App (Sing Something)** | Scramble a song and let the other user guess what that is. Currently has basic obfuscation + firebase authentication; needs file transfer and storage, result sharing | In Development | Private repo |
+|ShazamClone iOS|Shazamkit usage, prepare for Sing Something|Finished|[View Repo](https://github.com/icywind/ShazamClone)|
 | **Pacman by AI + Python Game Library** | Comparison of LLMs in making the classic Pacman Game | Verdict Reached | [View Repo](https://github.com/icywind/pacman-llm-pygame) |
 | **Ads SDK integration samples for Unity** | A simple SDK structure demonstrating how to build from a C++ library to Unity MacOS plugin | Finished | [View Repo](https://github.com/icywind/AdSDK_Unity_Native_Example) |
 | **Tool VR** | A Unity VR project for Oculus Quest that provides an immersive wrench interaction experience | Finished | [View Repo](https://github.com/icywind/ToolVR) |
