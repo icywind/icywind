@@ -28,6 +28,7 @@ With years of experience across mobile, gaming, and embedded systems, I speciali
 |ShazamClone iOS|Shazamkit usage, prepare for Sing Something|Finished|[View Repo](https://github.com/icywind/ShazamClone)|
 | **Pacman by AI + Python Game Library** | Comparison of LLMs in making the classic Pacman Game | Verdict Reached | [View Repo](https://github.com/icywind/pacman-llm-pygame) |
 | **Ads SDK integration samples for Unity** | A simple SDK structure demonstrating how to build from a C++ library to Unity MacOS plugin | Finished | [View Repo](https://github.com/icywind/AdSDK_Unity_Native_Example) |
+| **UnityAds SwiftUI integration** | A SwiftUI integration for UnityAds iOS SDK | In Development | [View Repo](https://github.com/icywind/UnityAds_iOS_Demo)|
 | **Tool VR** | A Unity VR project for Oculus Quest that provides an immersive wrench interaction experience | Finished | [View Repo](https://github.com/icywind/ToolVR) |
 
 ## ⭐ Work Project Samples 
