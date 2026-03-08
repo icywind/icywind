@@ -1,3 +1,4 @@
+
 # Hi, I'm Rick 👋
 
 Senior SW/DevRel Engineer | Cross-Platform Systems | Unity & iOS | Real-Time Communication
@@ -18,7 +19,7 @@ With years of experience across mobile, gaming, and embedded systems, I speciali
 
 - High-performance mobile systems
 
-## 🚧 Currently Building
+## 🚧 Personal Projects (Currently Building)
 
 | Project | Description | Status | Link |
 |---------|-------------|--------|------|
@@ -28,7 +29,7 @@ With years of experience across mobile, gaming, and embedded systems, I speciali
 |ShazamClone iOS|Shazamkit usage, prepare for Sing Something|Finished|[View Repo](https://github.com/icywind/ShazamClone)|
 | **Pacman by AI + Python Game Library** | Comparison of LLMs in making the classic Pacman Game | Verdict Reached | [View Repo](https://github.com/icywind/pacman-llm-pygame) |
 | **Ads SDK integration samples for Unity** | A simple SDK structure demonstrating how to build from a C++ library to Unity MacOS plugin | Finished | [View Repo](https://github.com/icywind/AdSDK_Unity_Native_Example) |
-| **UnityAds SwiftUI integration** | A SwiftUI integration for UnityAds iOS SDK | In Development | [View Repo](https://github.com/icywind/UnityAds_iOS_Demo)|
+| **UnityAds SwiftUI integration** | A SwiftUI integration for UnityAds iOS SDK | Finished| [View Repo](https://github.com/icywind/UnityAds_iOS_Demo)|
 | **Tool VR** | A Unity VR project for Oculus Quest that provides an immersive wrench interaction experience | Finished | [View Repo](https://github.com/icywind/ToolVR) |
 
 ## ⭐ Work Project Samples 
@@ -36,6 +37,7 @@ This section contains public projects that made significant impact during my tim
 
 | Project | Description | Repo Link | Blog Link |
 |---------|-------------|-----------|-----------|
+| **Spatial Audio VR Demo** | How to add spatial audio of RTC users on Oculus | [View Repo](https://github.com/AgoraIO-Community/Unity-VR-Samples/tree/main/Oculus-SpatialAudio) | [View Blog](https://rickagora.medium.com/how-to-build-a-vr-video-chat-app-with-spatial-audio-on-oculus-1501c85e54fb) |
 | **Agora Space 2** | Realtime engagement in Spaces using Agora SDKs (RTC/RTM) | [View Repo](https://github.com/AgoraIO-Community/Agora_Unity_Space2) | - |
 | **Agora WebGL Plugin** | Beta Plugin built for Unity on WebGL platform | [View Repo](link) | - |
 | **Vision Pro Unity Quick Start with Agora SDK** | Agora working on Apple VisionPro with a Unity SDK plugin | [View Repo](https://github.com/AgoraIO-Community/HelloAgoraVision) | [View Blog](https://www.agora.io/en/blog/vision-pro-unity-quickstart-with-agora-sdk/) |
